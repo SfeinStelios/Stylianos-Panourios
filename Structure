@@ -1,0 +1,16 @@
+synthetic-societies-simulator/
+│
+├── README.md              # Summary of what this project does
+├── LICENSE                # MIT License
+├── article_link.txt       # Paste DOI or link to published/preprint version
+│
+├── /docs/                 # Documentation, theory diagrams, pseudocode
+│   ├── architecture.png
+│   ├── validation_flow.png
+│   ├── theory_matrix_table.png
+│   └── activation_logic.md
+│
+├── /modules/              # Theory modules (even just structured text for now)
+│   ├── prospect_theory_module.md
+│   ├── identity_theory_module.md
+│   └── narrative_economics_module.md
