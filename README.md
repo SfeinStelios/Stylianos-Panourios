@@ -36,10 +36,11 @@ This project introduces a modular, multi-theory agent-based simulation framework
 
 ## Article Link
 
-[Insert DOI or preprint link]
+[Not yet posted]
 
 ---
 
 ## Contact
 
-[Your name and optional email]
+spanourios@gmail.com
+sfeinstelioss@hotmail.com
